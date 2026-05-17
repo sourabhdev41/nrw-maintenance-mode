@@ -21,17 +21,23 @@ A modern, lightweight and SEO-safe WordPress maintenance mode plugin with beauti
 - Does not affect existing plugins or SEO
 
 ---
+<img width="2940" height="1436" alt="image" src="https://github.com/user-attachments/assets/df2abcf7-4cd5-493b-9dea-a25fc77f1875" />
+<img width="1467" height="720" alt="Screenshot 2026-05-18 at 12 44 38 AM" src="https://github.com/user-attachments/assets/f79714d5-0ecf-43f5-9fb9-e1940505f121" />
+
 
 # 📸 Included Themes
 
 ## Modern Theme
 Clean modern layout with smooth UI and elegant typography.
+<img width="2940" height="1442" alt="image" src="https://github.com/user-attachments/assets/cf8ade85-0d3a-44ff-9011-dea1ca9969c1" />
 
 ## Minimal Theme
 Simple minimal layout focused on readability.
+<img width="1470" height="711" alt="Screenshot 2026-05-18 at 12 46 45 AM" src="https://github.com/user-attachments/assets/d1af98bc-f00a-4f19-bdbd-001df78de251" />
 
 ## Bold Theme
 Strong typography and dark professional appearance.
+<img width="2940" height="1428" alt="image" src="https://github.com/user-attachments/assets/4fb11541-a819-487c-8bcf-25412cd55889" />
 
 ---
 
