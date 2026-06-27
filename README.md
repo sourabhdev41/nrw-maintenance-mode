@@ -4,7 +4,7 @@ A modern, lightweight and SEO-safe WordPress maintenance mode plugin with beauti
 
 ---
 
-## ✨ Features
+## Features
 
 - SEO-safe maintenance mode
 - Proper 503 status headers
@@ -25,7 +25,7 @@ A modern, lightweight and SEO-safe WordPress maintenance mode plugin with beauti
 <img width="1467" height="720" alt="Screenshot 2026-05-18 at 12 44 38 AM" src="https://github.com/user-attachments/assets/f79714d5-0ecf-43f5-9fb9-e1940505f121" />
 
 
-# 📸 Included Themes
+# Included Themes
 
 ## Modern Theme
 Clean modern layout with smooth UI and elegant typography.
@@ -41,7 +41,7 @@ Strong typography and dark professional appearance.
 
 ---
 
-# 📦 Installation
+# Installation
 
 ## Method 1 — Upload ZIP
 
