@@ -8,7 +8,7 @@ A modern, lightweight and SEO-safe WordPress maintenance mode plugin with beauti
 
 - SEO-safe maintenance mode
 - Proper 503 status headers
-- Noindex support
+- Noindex support available
 - 3 beautiful built-in themes
 - Custom HTML maintenance page upload
 - Live preview system
