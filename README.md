@@ -13,7 +13,7 @@ A modern, lightweight and SEO-safe WordPress maintenance mode plugin with beauti
 - Custom HTML maintenance page upload
 - Live preview system
 - Full page preview
-- Admin bypass mode
+- Admin bypass mode integrated
 - Minimal modern dashboard UI
 - Lightweight and fast
 - Mobile responsive
